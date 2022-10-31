@@ -17,7 +17,7 @@ We design a software suite deployable on-premise, on cloud or on mobile infrastr
 
 The CYBNITY platform makes it possible to design (e.g NIST, ISO27001 based) the strategic governance of the digital assets cybersecurity, and to pilot tactical operational protection systems (interoperability glue of open source and proprietary security solutions making them integrated) guaranteeing the neutralization of security incidents.
 
-We develop a solution embedding the french excellence, in an interoperable and tactical software suite.
+We develop a solution embedding the french excellence, in an interoperable (ecosystem of compatible solutions) and tactical software suite.
 
 ### What's Our Goal?
 Our dream is to develop "__the Rafale of the cybersecurity__" with a approach privileging the quality, the mixing and merging of skills (e.g from police and military methods), and the rollouts of concret solutions integrated.
