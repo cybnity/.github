@@ -1,6 +1,6 @@
 ## Hey 👋, this is us CYBNITY (CYBer sereNITY)
 
-![image](securite-multi-systemes.jpg)
+![image](https://github.com/cybnity/.github/blob/main/profile/securite-multi-systemes.jpg)
 
 # 👥 Who We Are?
 We are techi guys, frenchies :fr:, armed of rich experiences in the software industry.
