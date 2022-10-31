@@ -15,7 +15,9 @@ We try to help the security experts to solve cybersecurity problems with complex
 ### What We Build?
 We design a software suite deployable on-premise, on cloud or on mobile infrastructure.
 
-The CYBNITY platform makes it possible to design the strategic governance of the digital assets cybersecurity, and to pilot tactical operational protection systems guaranteeing the neutralization of security incidents. We develop a solution embedding the french excellence, in an interoperable and tactical software suite.
+The CYBNITY platform makes it possible to design (e.g NIST, ISO27001 based) the strategic governance of the digital assets cybersecurity, and to pilot tactical operational protection systems guaranteeing the neutralization of security incidents.
+
+We develop a solution embedding the french excellence, in an interoperable and tactical software suite.
 
 ### What's Our Goal?
 Our dream is to develop "__the Rafale of the cybersecurity__" with a approach privileging the quality, the mixing and merging of skills (e.g from police and military methods), and the rollouts of concret solutions integrated.
